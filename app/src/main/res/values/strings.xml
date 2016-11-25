@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">Popular Movies</string>
+    <string name="app_name">Pop Movies</string>
+    <string name="title_activity_movie_details">Movie Detail</string>
+    <string name="action_settings">Settings</string>
+    <string name="vote_average" formatted="false">%s/%s</string>
+    <string name="connection_fail">Request failed. Check your connection and try again.</string>
 </resources>
